@@ -47,8 +47,4 @@ $RECYCLE.BIN/
 .copado
 
 # Profiles ignored for China deployments because the org is different from the ROW org. 
-"profiles/Minimum Access - Copado.profile-meta.xml"
-"profiles/Read Only.profile-meta.xml"
-profiles/copado**
-profiles/experience**
 profiles/**
