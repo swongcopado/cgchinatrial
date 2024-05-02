@@ -47,4 +47,4 @@ $RECYCLE.BIN/
 .copado
 
 # Profiles ignored for China deployments because the org is different from the ROW org. 
-profiles/**
+**/profiles/**
