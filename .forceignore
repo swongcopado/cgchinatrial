@@ -10,3 +10,9 @@ package.xml
 
 # LWC Jest
 **/__tests__/**
+
+# Profiles that are not important
+"profiles/Minimum Access - Copado.profile-meta.xml"
+"profiles/Read Only.profile-meta.xml"
+profiles/copado**
+profiles/experience**
