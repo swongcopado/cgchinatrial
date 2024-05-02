@@ -11,9 +11,6 @@ package.xml
 # LWC Jest
 **/__tests__/**
 
-# Profiles that are not important
-"profiles/Minimum Access - Copado.profile-meta.xml"
-"profiles/Read Only.profile-meta.xml"
-profiles/copado**
-profiles/experience**
+# Profiles are ignored for China deployments as the China org is different from the ROW orgs.
+# Only relevant if all the org in the pipeline are created from the China org
 profiles/**
