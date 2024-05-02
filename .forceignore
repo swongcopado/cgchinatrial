@@ -16,3 +16,4 @@ package.xml
 "profiles/Read Only.profile-meta.xml"
 profiles/copado**
 profiles/experience**
+profiles/**
